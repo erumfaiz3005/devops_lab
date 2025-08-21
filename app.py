@@ -5,3 +5,4 @@ print("Code for Even")
 for i in range(1,n):
     if i % 2 == 0:
         print(i)
+#made changes
